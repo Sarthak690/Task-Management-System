@@ -1,10 +1,8 @@
 # Task Management Project
-<hr>
 
 This is a task management project developed using Node.js, React.js, and Mysql. It allows users to create, update, and delete tasks, and provides a user-friendly interface for managing tasks efficiently.
 
 ## Table of Content
-<hr>
 
 - [Features](#features)
 - [Requirements](#requirements)
@@ -14,7 +12,6 @@ This is a task management project developed using Node.js, React.js, and Mysql. 
 - [License](#license)
 
 ## Features
-<hr>
 
 - User authentication: Users can create an account, log in, and log out.
 - Task creation: Users can create new tasks with a title, description, and due date.
@@ -27,7 +24,6 @@ This is a task management project developed using Node.js, React.js, and Mysql. 
 - Responsive design: The application is designed to be responsive and optimized for different screen sizes.
 
 ## Requirements
-<hr>
 
 Make sure you have the following software installed on your system:
 
@@ -36,7 +32,6 @@ Make sure you have the following software installed on your system:
 - Mysql
 
 ## Installation
-<hr>
 
 1. Clone the repository or download the source code:
 
@@ -60,7 +55,6 @@ Make sure you have the following software installed on your system:
 
 
 ## Usage
-<hr>
 
 1. Start the server:
 
@@ -71,7 +65,6 @@ Make sure you have the following software installed on your system:
 2. Open a web browser and visit `http://localhost:3000` to access the application.
 
 ## Contributing
-<hr>
 
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
 
@@ -83,12 +76,10 @@ Contributions are welcome! If you want to contribute to this project, please fol
 6. Create a pull request with a detailed description of your changes.
 
 ## License
-<hr>
 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-<hr>
 
 - [Node.js](https://nodejs.org/)
 - [React.js](https://reactjs.org/)
